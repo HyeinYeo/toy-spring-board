@@ -1,7 +1,7 @@
 package com.hyeinyeo.toy_spring_board.service.login;
 
 import com.hyeinyeo.toy_spring_board.domain.User;
-import com.hyeinyeo.toy_spring_board.repository.UserRepository;
+import com.hyeinyeo.toy_spring_board.repository.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.dao.DataAccessException;

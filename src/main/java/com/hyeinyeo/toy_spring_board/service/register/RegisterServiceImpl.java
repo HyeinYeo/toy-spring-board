@@ -5,7 +5,7 @@ import com.hyeinyeo.toy_spring_board.dto.register.SavedUserResponseDto;
 import com.hyeinyeo.toy_spring_board.dto.register.UserRegiSuccessDto;
 import com.hyeinyeo.toy_spring_board.form.register.UserRegistrationForm;
 import com.hyeinyeo.toy_spring_board.mapper.user.RegisterMapper;
-import com.hyeinyeo.toy_spring_board.repository.UserRepository;
+import com.hyeinyeo.toy_spring_board.repository.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

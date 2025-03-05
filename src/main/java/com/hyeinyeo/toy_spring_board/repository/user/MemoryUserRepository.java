@@ -1,4 +1,4 @@
-package com.hyeinyeo.toy_spring_board.repository;
+package com.hyeinyeo.toy_spring_board.repository.user;
 
 import com.hyeinyeo.toy_spring_board.domain.User;
 import org.springframework.context.annotation.Profile;
